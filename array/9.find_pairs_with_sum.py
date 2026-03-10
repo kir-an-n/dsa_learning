@@ -3,9 +3,6 @@
 # Example: [1, 2, 3, 4, 5] target = 6 → [(1, 5), (2, 4)]
 
 
-
-
-
 def find_pairs(arr, target):
     pairs=[]
 
@@ -20,3 +17,6 @@ def find_pairs(arr, target):
     return pairs
             
 print(find_pairs([1,2,3,4,5,6,7,8,9], 11))
+
+
+#we can do it by eihter complement or two pointers...........kirna stop misxing it up
