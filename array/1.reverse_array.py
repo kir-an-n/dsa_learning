@@ -1,5 +1,5 @@
 #Problem 1 — Reverse Array
-#Two pointers, i and j, swap until they meet. You already explained it correctly earlier!
+#Two pointers, i and j, swap until they meet.
 
 
 def reverse_array(arr):
