@@ -3,7 +3,7 @@
 # Example: [1, 2, 3, 5] → 4
 
 
-
+               
 def find_missing_number(arr):
     n=len(arr)+1
 
@@ -14,4 +14,4 @@ def find_missing_number(arr):
 print(find_missing_number([1,2,3,5]))  # should give 4
 
 
-#thissoultion works only fir sorted arrays and arry that starts with 1 and it give sonly one missing number
+#this soultion works only fir sorted arrays and arry that starts with 1 and it give sonly one missing number
