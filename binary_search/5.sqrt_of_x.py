@@ -1,0 +1,15 @@
+def find_sqrt_ (x):
+    
+    low=1
+    high=x
+    ans=0
+    while low <=high :
+        mid=(low+high) //2
+        
+        if mid*mid= x
+           return x
+        elif mid*mid < x:
+             ans=mid
+             low=mid+1
+        else:
+            high=mid-1
